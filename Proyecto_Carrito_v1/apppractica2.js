@@ -37,3 +37,5 @@ const pintarCarrito = () => {
     });
     carrito.appendChild(fragment);
 };
+
+//version 1 carrito de compras

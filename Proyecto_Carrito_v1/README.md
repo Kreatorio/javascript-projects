@@ -1,4 +1,4 @@
-# Ejemplo carrito de compras utilizando javascript y html con objeto y template
+# Ejemplo carrito de compras utilizando javascript y html con objeto y template 🛒🏪
 
 ## Todo con fines educativos
 Si puedes mejorar el código, bienvenido!! todas las propuestas son recibidas :)
